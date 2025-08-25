@@ -1,4 +1,4 @@
-![banner]([https://your-gif-or-banner-link.com](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI0bXhtb2I5djVhYTI5empucmZsNnV0b3Q5NmhzNW92aTN0ZnZvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZr5JYqVDoQTM68nNO/giphy.gif)) <!-- Replace with your own banner or GIF -->
+
 
 # Hi, I'm Omar Abdelsalam 👋
 
