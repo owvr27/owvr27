@@ -32,10 +32,10 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 Website: [owvr27.github.io/owvr](https://owvr27.github.io/owvr/)
+- 🌐 Website: [owvr27.github.io/owvr](https://owvr27.github.io/omarabdelsalam/)
 - 💼 LinkedIn: [Omar Abdelsalam](https://www.linkedin.com/in/omar-abdelsalam-29276a341)
 - 📫 Email: [owvr.vhmed@gmail.com](mailto:owvr.vhmed@gmail.com)
-- 🎥 Tech Content: *Coming soon!*
+- 🎥 Tech Content: *lex._1 in tiktok*
 - 🎨 Art Page: *Coming soon!*
 
 ---
