@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Owvr+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
-
+<br>
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 <h2 align="left">
@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Omar Ahmed (Owvr)`](https://github.com/owvr27)** — a passionate **Cybersecurity Student**, **Bug Hunter**, and **Penetration Tester**.  
+I'm **[`Omar Ahmed`](https://github.com/owvr27)** — a passionate **Cybersecurity Student**, **Bug Hunter**, and **Penetration Tester**.  
 I love exploring vulnerabilities, automating security tools, and building secure systems to protect the digital world.  
 
 <details>
