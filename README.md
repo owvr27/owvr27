@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Omar Ahmed (Owvr)`](https://github.com/owvr27)** — a passionate **Cybersecurity Student**, **Bug Hunter**, and **Aspiring Penetration Tester**.  
+I'm **[`Omar Ahmed (Owvr)`](https://github.com/owvr27)** — a passionate **Cybersecurity Student**, **Bug Hunter**, and **Penetration Tester**.  
 I love exploring vulnerabilities, automating security tools, and building secure systems to protect the digital world.  
 
 <details>
@@ -43,7 +43,7 @@ I love exploring vulnerabilities, automating security tools, and building secure
 👉 Developing Python Tools for Pentesters  
 👉 Currently Exploring Android & Web Application Security  
 
-`Updating:`  Journey to become a **Cybersecurity Specialist**
+
 
 ---
 
